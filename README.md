@@ -17,3 +17,8 @@ Key Activities:
 •	Integrating a rich text editor for creating and editing blog posts
 •	Setting up the database schema and models using MySQL
 •	Handling file uploads for post images
+
+Technologies used:
+Frontend: HTML, CSS, JavaScript and React
+Backend: Node.js, Express
+Database: MySQL
