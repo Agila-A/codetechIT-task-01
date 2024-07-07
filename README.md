@@ -3,7 +3,7 @@
 	ID: CTO8DS1793
 	Domain: FULL STACK WEB DEVELOPMENT
 	Duration: 10th JUNE to 10th JULY 2024
-	Mentor:
+	Mentor: Muzammil
 
 Overview of the project:
 The Simple Blog Post Project is a web application designed to enable users to create, edit, and delete blog posts. It provides a platform for users to share their thoughts and ideas in a structured format, with a clean and intuitive interface.
